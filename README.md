@@ -1,2 +1,3 @@
-# LP-Labirintos
-IST- Projeto LP [15/16]
+# LP - Maze Solver
+IST - Logic for Programming Project [15/16]
+Prolog
